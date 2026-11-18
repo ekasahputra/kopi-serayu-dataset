@@ -1,8 +1,8 @@
 # Dataset Kopi Serayu
 
-Dataset latihan untuk buku **Literasi TIK untuk Mahasiswa: Dari Mencari Referensi sampai Membaca Data** karya Eka Sahputra (Penerbit NEM).
+Dataset latihan untuk buku **Literasi TIK untuk Mahasiswa: Dari Mencari Referensi sampai Membaca Data**.
 
-Kopi Serayu adalah kedai kopi **fiktif** dengan dua gerai, Kampus dan Kota, di Purwokerto. Semua data di sini **sintetis** dan dibuat khusus untuk latihan, sehingga tidak menggambarkan usaha mana pun dan tidak memuat data pribadi.
+Kopi Serayu adalah kedai kopi **rekaan** dengan dua gerai, Kampus dan Kota, di Purwokerto. Semua data di sini **sintetis**, yaitu dibuat dengan program komputer khusus untuk latihan, sehingga tidak menggambarkan usaha mana pun dan tidak memuat data pribadi.
 
 ## Cara mengunduh
 
